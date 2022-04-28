@@ -13,7 +13,7 @@
 	else
 	{
 		// get fields
-		$stateAb = filter_input(INPUT_POST, "stateAb");
+		$stateAb = filter_input(INPUT_POST, "stateab");
 		$state = filter_input(INPUT_POST, "state");
 		// do query
 		if
@@ -75,5 +75,4 @@
 			?>
 		</table>
 	</body>
-	</html>
-			
+</html>

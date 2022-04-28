@@ -14,7 +14,11 @@ To launch in browser enter
 http://localhost/*nameOfFolderInHTDOCS*/*nameOfFile*.php
 
 Example:
+
 http://localhost/phase3/search.php
+
 http://localhost/phase3/insert.php
+
 http://localhost/phase3/update.php
+
 http://localhost/phase3/delete.php
